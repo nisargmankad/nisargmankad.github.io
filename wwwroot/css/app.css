@@ -1,43 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Work+Sans:wght@400;600;700&display=swap');
+
+:root {
+    --bg-deep-slate: #1A1D24;
+    --bg-slate: #222831;
+    --text-light: #F5F5F5;
+    --text-muted: #9DA3AE;
+    --accent: #B0B0B0; /* Steel Gray Highlight */
+    --border-color: #3A404A;
+}
+
 body {
-    background-color: #ffffff;
-    color: #000000;
-    font-family: 'Inter', sans-serif;
-    margin: 0;
-    padding: 0;
+    font-family: 'Work Sans', sans-serif !important;
+    background-color: var(--bg-slate) !important;
+    color: var(--text-light) !important;
 }
 
-
-.hero-section {
-    text-align: center;
-    padding: 5rem 1rem;
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Anton', sans-serif !important;
+    font-weight: 400 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.025em !important;
+    color: var(--text-light) !important;
 }
 
-.btn-download {
-    background-color: #000000;
-    color: #ffffff;
-    padding: 0.75rem 1.5rem;
-    text-decoration: none;
-    border-radius: 4px;
+/* General Section Styling */
+.section {
+    padding: 8rem 2rem;
+    border-bottom: 2px solid var(--border-color);
 }
 
-.btn-download:hover {
-    background-color: #333333;
-}
-.nav-menu {
+/* Home Section Styling */
+.home-section {
+    background-color: var(--bg-deep-slate);
+    text-align: left;
+    min-height: 90vh;
     display: flex;
-    justify-content: center;
-    gap: 2rem;
-    padding: 1rem;
-    background-color: #f5f5f5;
-    list-style: none;
+    align-items: center;
 }
 
-.nav-menu li a {
-    color: black;
+.home-header h1 {
+    font-size: clamp(3.5rem, 10vw, 6rem); /* Responsive font size */
+    line-height: 1;
+}
+
+.home-header h2 {
+    font-size: clamp(2.5rem, 8vw, 4.5rem);
+    line-height: 1;
+    color: var(--accent) !important;
+}
+
+/* About Section Styling */
+.about-section .about-heading {
+    font-size: clamp(2.5rem, 6vw, 3.5rem);
+}
+
+.about-photo-container {
+    width: 100%;
+    height: 24rem;
+    background-color: var(--bg-deep-slate);
+    border: 2px solid var(--border-color);
+}
+
+/* Project Section Styling */
+.project-section {
+    background-color: var(--bg-deep-slate);
+}
+
+.project-heading {
+    font-size: clamp(2.5rem, 6vw, 3.5rem);
+}
+
+.project-card {
+    border: 2px solid var(--border-color);
+    transition: all 0.3s ease;
+    background-color: var(--bg-deep-slate);
+    color: var(--text-light);
+    display: block;
+    padding: 1.5rem;
     text-decoration: none;
-    font-weight: bold;
 }
 
-.nav-menu li a:hover {
+.project-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-5px);
+}
+
+.project-card .card-title {
+    font-family: 'Anton', sans-serif !important;
+    font-size: 2.5rem !important;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.project-card .project-number {
+    font-family: 'Work Sans', sans-serif !important;
+    font-weight: 700;
+    color: var(--accent) !important;
+}
+
+/* Footer Styling */
+.footer {
+    background-color: var(--bg-deep-slate);
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: clamp(3rem, 7vw, 4rem);
+}
+
+.footer a {
+    font-size: clamp(1.25rem, 4vw, 2rem);
+    font-weight: 700;
+    color: var(--accent) !important;
+    transition: color 0.2s ease-in-out;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: var(--text-light) !important;
     text-decoration: underline;
 }
