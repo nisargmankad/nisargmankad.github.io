@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
+      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/Nash_Resume.pdf",
+      "PackagePath": "staticwebassets/Nash_Resume.pdf"
+    },
+    {
       "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
