@@ -120,6 +120,24 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--text-light) !important;
     text-decoration: underline;
 }
-
+/* Resume section tweaks */
 #resume ul { margin-bottom: 0; }
 #resume li + li { margin-top: .35rem; }
+
+/* Layout */
+.page header { background: #fff; }
+.page .navbar-brand { font-weight: 700; }
+.page main { min-height: 60vh; }
+
+/* Logo sizing and alignment */
+.company-logo {
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    vertical-align: middle;
+  }
+  
+  /* If you use a dark theme and have black logos, you can lighten them:
+     .company-logo { filter: invert(1) grayscale(1); }  <-- optional */
+  

@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets/icon-192.png"
     },
     {
+      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/images/bruin.png",
+      "PackagePath": "staticwebassets/images/bruin.png"
+    },
+    {
+      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/images/microsoft.png",
+      "PackagePath": "staticwebassets/images/microsoft.png"
+    },
+    {
       "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/images/profile.jpg",
       "PackagePath": "staticwebassets/images/profile.jpg"
     },

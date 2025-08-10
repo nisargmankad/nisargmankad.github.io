@@ -64,6 +64,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/nisargmankad/Projects/NashSite/MyPortfolio/Shared/ResumeSection.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Jlc3VtZVNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/nisargmankad/Projects/NashSite/MyPortfolio/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
