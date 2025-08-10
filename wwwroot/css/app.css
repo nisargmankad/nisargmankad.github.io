@@ -22,6 +22,8 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 0.025em !important;
     color: var(--text-light) !important;
 }
+#content:focus { outline: none; }
+
 
 /* General Section Styling */
 .section {
@@ -62,9 +64,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Project Section Styling */
-.project-section {
+/* .project-section {
     background-color: var(--bg-deep-slate);
-}
+} */
 
 .project-heading {
     font-size: clamp(2.5rem, 6vw, 3.5rem);
@@ -124,8 +126,25 @@ h1, h2, h3, h4, h5, h6 {
 #resume ul { margin-bottom: 0; }
 #resume li + li { margin-top: .35rem; }
 
-/* Layout */
-.page header { background: #fff; }
+/* Header / navbar */
+.page header {
+    /* choose one: */
+    /* background: transparent; */
+    background: #0e0e0e;  /* dark */
+    color: #fff;
+  }
+  
+  .page header a,
+  .page header .nav-link,
+  .page header .navbar-brand {
+    color: #fff;
+  }
+  
+  .page header .nav-link:hover,
+  .page header .navbar-brand:hover {
+    opacity: .85;
+  }
+  
 .page .navbar-brand { font-weight: 700; }
 .page main { min-height: 60vh; }
 
