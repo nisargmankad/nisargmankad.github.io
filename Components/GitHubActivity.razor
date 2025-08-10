@@ -1,17 +1,18 @@
 @using MyPortfolio.Models
-@using System.Net.Http.Json
 @inject HttpClient Http
 @inject IJSRuntime JS
 
-<div class="card border-0">
+<!-- Components/GitHubActivity.razor -->
+<div class="card border-0 github-card">
   <div class="d-flex align-items-center justify-content-between mb-2">
-    <h2 class="h4 mb-0">GitHub Activity</h2>
+    <h2 class="h5 mb-0">GitHub Activity</h2>
     <a class="small text-muted" target="_blank" rel="noopener"
-       href=@($"https://github.com/{Username}")>@Username</a>
+       href=@($"https://github.com/nisargmankad")>@Username</a>
   </div>
 
-  <div style="height: 280px;">
-    <canvas id="@_canvasId" width="800" height="280"></canvas>
+  <!-- Reduced height for a more compact chart -->
+  <div style="height: 180px;">
+    <canvas id="@_canvasId" width="800" height="180"></canvas>
   </div>
 
   @if (!string.IsNullOrEmpty(_error))
@@ -22,38 +23,42 @@
 
 @code {
   [Parameter] public string Username { get; set; } = "nisargmankad";
-  [Parameter] public int Days { get; set; } = 90;
+  [Parameter] public int Days { get; set; } = 90; // history window
 
   private readonly string _canvasId = $"gh-activity-{Guid.NewGuid():N}";
   private string? _error;
-  private readonly CancellationTokenSource _cts = new();
-
-  private List<string> _labels = new();
-  private List<int> _values = new();
-  private bool _dataReady = false;
-  private bool _chartRendered = false;
+  private CancellationTokenSource _cts = new();
 
   protected override async Task OnInitializedAsync()
   {
     try
     {
+      // GitHub API requires a User-Agent header for browser requests
       if (!Http.DefaultRequestHeaders.UserAgent.Any())
+      {
         Http.DefaultRequestHeaders.UserAgent.ParseAdd("MyPortfolioApp/1.0");
+      }
       Http.DefaultRequestHeaders.Accept.ParseAdd("application/vnd.github+json");
 
+      // We’ll fetch up to 3 pages x 100 events (most recent)
+      var maxPages = 3;
       var allEvents = new List<GithubEvent>();
-      for (var page = 1; page <= 3; page++)
+
+      for (var page = 1; page <= maxPages; page++)
       {
         var url = $"https://api.github.com/users/{Username}/events?per_page=100&page={page}";
         var pageEvents = await Http.GetFromJsonAsync<List<GithubEvent>>(url, _cts.Token);
-        if (pageEvents is null || pageEvents.Count == 0) break;
+        if (pageEvents == null || pageEvents.Count == 0) break;
         allEvents.AddRange(pageEvents);
       }
 
+      // Aggregate commits per day for the last N days
       var endDate = DateTime.UtcNow.Date;
       var startDate = endDate.AddDays(-Days + 1);
+
       var daily = new Dictionary<DateTime, int>();
-      for (var d = startDate; d <= endDate; d = d.AddDays(1)) daily[d] = 0;
+      for (var d = startDate; d <= endDate; d = d.AddDays(1))
+        daily[d] = 0;
 
       foreach (var ev in allEvents)
       {
@@ -65,30 +70,31 @@
                           ?? ev.payload?.commits?.Count
                           ?? 0;
 
-        if (daily.ContainsKey(day)) daily[day] += commitCount;
+        if (daily.ContainsKey(day))
+          daily[day] += commitCount;
       }
 
-      _labels.Clear(); _values.Clear();
+      var labels = new List<string>();
+      var values = new List<int>();
       for (var d = startDate; d <= endDate; d = d.AddDays(1))
       {
-        _labels.Add(d.ToString("MMM d"));
-        _values.Add(daily[d]);
+        labels.Add(d.ToString("MMM d"));   // e.g., “Aug 10”
+        values.Add(daily[d]);
       }
 
-      _dataReady = true;
-      StateHasChanged(); // trigger first render so canvas exists
+      await JS.InvokeVoidAsync("chartInterop.renderLineChart", _canvasId, labels, values);
     }
-    catch (HttpRequestException) { _error = "Couldn’t reach GitHub API. Try again later."; }
-    catch (TaskCanceledException) { _error = "Request canceled."; }
-    catch (Exception ex) { _error = $"Unexpected error: {ex.Message}"; }
-  }
-
-  protected override async Task OnAfterRenderAsync(bool firstRender)
-  {
-    if (_dataReady && !_chartRendered)
+    catch (HttpRequestException)
     {
-      await JS.InvokeVoidAsync("chartInterop.renderLineChart", _canvasId, _labels, _values);
-      _chartRendered = true;
+      _error = "Couldn’t reach GitHub API. Try again later.";
+    }
+    catch (TaskCanceledException)
+    {
+      _error = "Request canceled.";
+    }
+    catch (Exception ex)
+    {
+      _error = $"Unexpected error: {ex.Message}";
     }
   }
 

@@ -111,3 +111,34 @@ body {
     outline: none;
     border-color: #FBBF24;
 }
+
+/* wwwroot/css/app.css */
+.github-card {
+    padding: 1rem;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #1F2937;  /* dark card background */
+    border-radius: 12px;
+  }
+  
+  /* Use your yellow accent colour for the heading */
+  .github-card h2 {
+    color: #FBBF24;
+    font-size: 1.25rem;
+  }
+  
+  /* Lighten the GitHub username link */
+  .github-card a {
+    color: #9CA3AF;
+    font-size: 0.875rem;
+    text-decoration: none;
+  }
+
+  /* Style the profile photo container */
+.profile-photo img {
+    border-radius: 50%;          /* makes the image circular */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5); /* subtle shadow for depth */
+    border: 3px solid #374151;   /* optional: dark border that matches the theme */
+  }
+  
+  
