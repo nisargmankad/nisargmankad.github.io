@@ -808,7 +808,6 @@
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/blazor.build.boot-extension.json
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/blazor.boot.json
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-wnmgshmmj8.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/p9orwyyu7o-1wp3dvfdp3.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ahz5jnzn69-bqjiyaj88i.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/xg95anf94u-c2jlpeoesf.gz
@@ -1070,11 +1069,12 @@
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/refint/MyPortfolio.dll
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/MyPortfolio.pdb
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/ref/MyPortfolio.dll
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.e3j0qb0k6k.pdb
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.65wfbsmcn2.wasm
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.e3j0qb0k6k.pdb.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.65wfbsmcn2.wasm.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-65wfbsmcn2.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-e3j0qb0k6k.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/m1fpiixya9-thchnsjqbl.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-93pfpx12xr.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.7k1oks9mf4.pdb
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.bre0ld8wk9.wasm
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.7k1oks9mf4.pdb.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.bre0ld8wk9.wasm.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-dtwzihsbtr.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-bre0ld8wk9.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-7k1oks9mf4.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/m1fpiixya9-7ag88ihdmk.gz
