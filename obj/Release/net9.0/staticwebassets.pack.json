@@ -5,8 +5,8 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
-      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/scopedcss/bundle/MyPortfolio.styles.css",
-      "PackagePath": "staticwebassets/MyPortfolio.styles.css"
+      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/Nash_Resume.pdf",
+      "PackagePath": "staticwebassets/Nash_Resume.pdf"
     },
     {
       "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/css/app.css",
@@ -21,8 +21,24 @@
       "PackagePath": "staticwebassets/icon-192.png"
     },
     {
+      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/images/bruin.png",
+      "PackagePath": "staticwebassets/images/bruin.png"
+    },
+    {
+      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/images/microsoft.png",
+      "PackagePath": "staticwebassets/images/microsoft.png"
+    },
+    {
+      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/images/profile.jpg",
+      "PackagePath": "staticwebassets/images/profile.jpg"
+    },
+    {
       "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/js/chartInterop.js",
+      "PackagePath": "staticwebassets/js/chartInterop.js"
     },
     {
       "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",

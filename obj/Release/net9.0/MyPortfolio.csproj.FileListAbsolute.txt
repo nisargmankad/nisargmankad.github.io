@@ -37,8 +37,6 @@
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/Microsoft.Win32.Primitives.weh8h3644m.wasm
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/Microsoft.Win32.Registry.a32fqwbg5a.wasm
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/mscorlib.5q5u0swn6q.wasm
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/MyPortfolio.pmd8ldqw6r.pdb
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/MyPortfolio.lf1mr1qbqz.wasm
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/netstandard.w8gk1pigg1.wasm
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.AppContext.uyzczx3u46.wasm
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.Buffers.gb72qmeqj8.wasm
@@ -275,7 +273,6 @@
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.Resources.Writer.7iu1r33mz9.wasm.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.Threading.ThreadPool.6q4r5fv3jz.wasm.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.Net.Primitives.2a8v8ln5td.wasm.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/MyPortfolio.pmd8ldqw6r.pdb.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.IO.lay2nsqfv6.wasm.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.Security.Cryptography.Encoding.wigcptmqzb.wasm.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.Data.DataSetExtensions.d8vm961ka5.wasm.gz
@@ -371,7 +368,6 @@
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.Linq.dsde3npfc5.wasm.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.IO.Compression.ZipFile.svj8ec60o4.wasm.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.Linq.Expressions.rf0szne3z1.wasm.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/MyPortfolio.lf1mr1qbqz.wasm.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.Security.SecureString.mhx91fa0v9.wasm.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/icudt_no_CJK.lfu7j35m59.dat.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/System.Runtime.rpnxqnm5kp.wasm.gz
@@ -808,14 +804,9 @@
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/webcil/netstandard.wasm
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/webcil/System.Private.CoreLib.wasm
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/webcil/MyPortfolio.wasm
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/scopedcss/Layout/MainLayout.razor.rz.scp.css
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/scopedcss/Layout/NavMenu.razor.rz.scp.css
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/scopedcss/bundle/MyPortfolio.styles.css
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/blazor.build.boot-extension.json
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/blazor.boot.json
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/qmv8ycc2f6-8rbvw3on5j.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/6k6bcuwpoo-kenzr326q5.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/ahz5jnzn69-bqjiyaj88i.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/xg95anf94u-c2jlpeoesf.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/j9xzv4oevb-erw9l3u2r3.gz
@@ -862,8 +853,6 @@
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/uiqwgm2o77-9xy8cig8dn.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/4lct2nrjs4-iag0ou56lh.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/y1r9cr6p6d-md9yvkcqlf.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/yoyys7dzn9-xxms3wdujx.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/b8lyyszp5b-xxms3wdujx.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/kejdqzavu7-esv38zo127.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/3g3v3riugq-cwj0bpb71v.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/hd6cxs5458-aq1ir8e8pl.gz
@@ -1064,9 +1053,6 @@
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/r5u0acvp51-tjcz0u77k5.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/v9rj8yxh9p-tptq2av103.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/tqlcv1t500-lfu7j35m59.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/ted0ak5oxo-lf1mr1qbqz.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/apg9ik95ly-pmd8ldqw6r.gz
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/m1fpiixya9-18m8h6d1io.gz
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/staticwebassets.build.json
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/staticwebassets.development.json
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/staticwebassets.build.endpoints.json
@@ -1081,3 +1067,14 @@
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/refint/MyPortfolio.dll
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/MyPortfolio.pdb
 /Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/ref/MyPortfolio.dll
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/MyPortfolio.tm1u25cxma.pdb
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/MyPortfolio.6rpxw65git.wasm
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/MyPortfolio.tm1u25cxma.pdb.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Release/net9.0/wwwroot/_framework/MyPortfolio.6rpxw65git.wasm.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/MyPortfolio.sourcelink.json
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/qmv8ycc2f6-ld5mu9ejun.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/6k6bcuwpoo-rc2utei6bx.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/p9orwyyu7o-1wp3dvfdp3.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/ted0ak5oxo-6rpxw65git.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/apg9ik95ly-tm1u25cxma.gz
+/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Release/net9.0/compressed/m1fpiixya9-6fao133hrr.gz

@@ -1,0 +1,144 @@
+/* --- BROOKLYN NAVY YARD THEME --- */
+
+/* This resets default browser styles and sets the base font */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #121212; /* Near Black */
+    color: #D1D5DB;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* You will need to add these classes to your HTML elements */
+
+.font-anton {
+    font-family: 'Anton', sans-serif;
+}
+
+.accent-color { 
+    color: #FBBF24; /* Industrial Yellow */
+}
+
+.header {
+    background-color: #121212;
+    border-bottom: 2px solid #374151;
+    padding: 1rem 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+}
+
+.nav-link {
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: color 0.3s;
+    text-decoration: none;
+    color: #D1D5DB;
+}
+
+.nav-link:hover {
+    color: #FBBF24;
+}
+
+.section-title {
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 2.25rem; /* 36px */
+}
+
+.card {
+    background-color: #1F2937;
+    border: 1px solid #4B5563;
+    transition: border-color 0.3s;
+    padding: 1.5rem;
+}
+
+.card:hover {
+    border-color: #FBBF24;
+}
+
+.btn-primary {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #FBBF24;
+    color: #121212;
+    padding: 12px 32px;
+    transition: background-color 0.3s;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #F59E0B;
+}
+
+.form-input {
+     background-color: #1F2937;
+     border: 1px solid #4B5563;
+     color: #D1D5DB;
+     padding: 0.75rem;
+     width: 100%;
+     box-sizing: border-box; /* Ensures padding doesn't affect width */
+}
+.section {
+    position: relative;
+    padding: 4rem;
+    background-color: #1f2937;            /* matches your dark theme */
+    border-radius: 12px;
+    box-shadow: 0 12px 24px rgba(0,0,0,0.4),
+                0 4px 8px rgba(0,0,0,0.3);
+    margin: 3rem 0;
+  }
+
+  .section:not(:first-of-type) {
+    margin-top: -2rem;                    /* pulls the section up over the previous one */
+  }
+  
+  /* optional: keep the overall page background dark so shadows are visible */
+  body {
+    background-color: #121212;
+  }
+.form-input::placeholder { 
+    color: #9CA3AF; 
+}
+
+.form-input:focus {
+    outline: none;
+    border-color: #FBBF24;
+}
+
+/* wwwroot/css/app.css */
+.github-card {
+    padding: 1rem;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #1F2937;  /* dark card background */
+    border-radius: 12px;
+  }
+  
+  /* Use your yellow accent colour for the heading */
+  .github-card h2 {
+    color: #FBBF24;
+    font-size: 1.25rem;
+  }
+  
+  /* Lighten the GitHub username link */
+  .github-card a {
+    color: #9CA3AF;
+    font-size: 0.875rem;
+    text-decoration: none;
+  }
+
+  /* Style the profile photo container */
+.profile-photo img {
+    border-radius: 50%;          /* makes the image circular */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5); /* subtle shadow for depth */
+    border: 3px solid #374151;   /* optional: dark border that matches the theme */
+  }
+  
+  
