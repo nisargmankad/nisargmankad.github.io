@@ -1,0 +1,60 @@
+@page "/"
+
+<!-- Chart.js (CDN) -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<!-- Our tiny interop -->
+<script src="js/chartInterop.js"></script>
+@using System.Net.Http.Json
+
+<!-- Hero / Home section -->
+<section class="section home-section" id="home">
+  <div class="container d-flex flex-column flex-md-row align-items-center">
+    <!-- Text on the left -->
+    <div class="flex-grow-1 me-md-4 text-center text-md-start mb-4 mb-md-0">
+      <h1>NISARG MANKAD</h1>
+      <h2>SOFTWARE DEVELOPER</h2>
+      <p class="text-lg max-w-lg mt-4" style="color: var(--text-muted);">
+      I build stuff...
+      </p>
+      <p class="text-lg max-w-lg mt-4" style="color: var(--text-muted);">
+      Software Development, Operations, Scaleing.
+      </p>
+    </div>
+
+    <!-- Photo on the right -->
+    <div class="profile-photo text-center">
+      <img src="images/profile.jpg"
+           alt="Profile photo"
+           class="img-fluid rounded-circle shadow"
+           style="max-width: 200px;">
+    </div>
+  </div>
+</section>
+
+<!-- GitHub activity graph -->
+<section class="section">
+    <GitHubActivity Username="nisargmankad" Days="90" />
+</section>
+
+<!-- Resume / experience section -->
+<section class="section" id="resume">
+    <ResumeSection />
+</section>
+
+<!-- Projects section -->
+@* <section class="section project-section" id="work">
+    <div class="container">
+        <h2 class="project-heading text-center mb-5">SELECTED WORK</h2>
+        <div class="row justify-content-center">
+            <!-- You would loop through your projects here -->
+            <div class="col-md-4 mb-4">
+                <a href="#" class="project-card">
+                    <p class="project-number">01</p>
+                    <h3 class="card-title">Project One</h3>
+                    <p class="text-sm font-semibold" style="color: var(--text-muted);">WEB APPLICATION</p>
+                </a>
+            </div>
+            <!-- Repeat for other projects -->
+        </div>
+    </div>
+</section> *@

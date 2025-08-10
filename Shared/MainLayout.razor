@@ -1,0 +1,24 @@
+@inherits LayoutComponentBase
+
+<div class="page">
+  <header class="shadow-sm">
+    <nav class="container d-flex align-items-center justify-content-between py-3">
+      <a class="navbar-brand text-decoration-none" href="/">Nash</a>
+      <ul class="nav">
+        <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="#resume">Resume</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Focus target moved here -->
+  <main id="content" tabindex="-1" class="container py-4">
+    @Body
+  </main>
+
+  <footer class="border-top mt-5">
+    <div class="container py-4 small text-muted">
+      © @DateTime.Now.Year Nash Mankad
+    </div>
+  </footer>
+</div>
