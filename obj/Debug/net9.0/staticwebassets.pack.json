@@ -217,10 +217,6 @@
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/lib/bootstrap/dist/js/chartInterop.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/chartInterop.js"
-    },
-    {
       "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/sample-data/weather.json",
       "PackagePath": "staticwebassets/sample-data/weather.json"
     },
