@@ -85,7 +85,24 @@ body {
      width: 100%;
      box-sizing: border-box; /* Ensures padding doesn't affect width */
 }
+.section {
+    position: relative;
+    padding: 4rem;
+    background-color: #1f2937;            /* matches your dark theme */
+    border-radius: 12px;
+    box-shadow: 0 12px 24px rgba(0,0,0,0.4),
+                0 4px 8px rgba(0,0,0,0.3);
+    margin: 3rem 0;
+  }
 
+  .section:not(:first-of-type) {
+    margin-top: -2rem;                    /* pulls the section up over the previous one */
+  }
+  
+  /* optional: keep the overall page background dark so shadows are visible */
+  body {
+    background-color: #121212;
+  }
 .form-input::placeholder { 
     color: #9CA3AF; 
 }

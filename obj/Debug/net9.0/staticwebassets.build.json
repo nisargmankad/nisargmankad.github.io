@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ak0d+l7Uvvne8WefYTdwyk8c1r1JZFkiPTVczZHVjR0=",
+  "Hash": "YjHpv2z2TCqXCNNxFy3T8hZeptM2XdFxcTzts/dEmiY=",
   "Source": "MyPortfolio",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "5hzn55mujj",
-      "Integrity": "WUzMjYpZDhUEUWqRQFkf0YyEY2dDCHFIAUwj67UGKiI=",
+      "Fingerprint": "2flachte59",
+      "Integrity": "ErX6wWAhIAD5m9PpcAvToYcFdM8G/hJDofMvIbBNmbc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -850,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "ntuj5cviw2",
-      "Integrity": "NZgm4kuYhs2VAPf1DoQYgIpaEJjkS8fPfYtzq9d4ojk=",
+      "Fingerprint": "3r7qjzw3xr",
+      "Integrity": "v8i3GxMfNiw3Hef5488aKE8F1lRBDUDBeupCHq6KgsM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/MyPortfolio.pdb"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "252yhdv326",
-      "Integrity": "qguSBzQFN72E6qL5t7v2OoG8gZ0BVakMuEH53iYHhZk=",
+      "Fingerprint": "ki3ncw1vbu",
+      "Integrity": "dLKrdebcRwv9NMTMr2LE9MKsVdROWABOi5C52SRrnyU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/webcil/MyPortfolio.wasm"
@@ -5540,12 +5540,12 @@
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Threading.Tasks.wasm"
     },
     {
-      "Identity": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-3v3t7tn1bt.gz",
+      "Identity": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-rc2utei6bx.gz",
       "SourceId": "MyPortfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=3v3t7tn1bt}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=rc2utei6bx}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5554,8 +5554,8 @@
       "RelatedAsset": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "znt9tdmgl2",
-      "Integrity": "b+8E89xKnO4TpGgO1xyS6b3cy/QvfAkXC4KnBa2UtLQ=",
+      "Fingerprint": "ezibrspyus",
+      "Integrity": "JtC+m5pCtsXbxlYZMmfGQoFssOzkKivR6KwRleSpaIA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/index.html"
@@ -6128,12 +6128,12 @@
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Net.Primitives.wasm"
     },
     {
-      "Identity": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-ntuj5cviw2.gz",
+      "Identity": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-3r7qjzw3xr.gz",
       "SourceId": "MyPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/MyPortfolio#[.{fingerprint=ntuj5cviw2}]!.pdb.gz",
+      "RelativePath": "_framework/MyPortfolio#[.{fingerprint=3r7qjzw3xr}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6142,8 +6142,8 @@
       "RelatedAsset": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5cqgpjebxr",
-      "Integrity": "q5F82iWSArfdMJJGwA4be5cN1g1VeKi+uSgnFO6HFs8=",
+      "Fingerprint": "7piw8n1szz",
+      "Integrity": "q/rFxGSM97khb7zQoeV75tFUeDU0TLy4qnWKvrVOXuk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.pdb"
@@ -7556,7 +7556,7 @@
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/System.ComponentModel.TypeConverter.wasm"
     },
     {
-      "Identity": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/m1fpiixya9-5hzn55mujj.gz",
+      "Identity": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/m1fpiixya9-2flachte59.gz",
       "SourceId": "MyPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/",
@@ -7570,8 +7570,8 @@
       "RelatedAsset": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y5g65r4aii",
-      "Integrity": "VsjokVhBZMcU1DwZCtB++GkiCn5gkDXH4WeXn/84YdI=",
+      "Fingerprint": "ge4rqm2nvv",
+      "Integrity": "+F7nh9cEf9P9JCWL4s0ajnt3TXmK9/Uh9P1q3q6xVio=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -8312,12 +8312,12 @@
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-ywr3cmcpev.gz",
+      "Identity": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-x9odzkrvpw.gz",
       "SourceId": "MyPortfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=ywr3cmcpev}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=x9odzkrvpw}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8326,8 +8326,8 @@
       "RelatedAsset": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/css/app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "68dwj9dsnx",
-      "Integrity": "9pE70CpIVQdgrdCdutJbA51HCB2S8GvCp6/DpddxeKw=",
+      "Fingerprint": "nyasxuos4d",
+      "Integrity": "gWBOUBXdvabG6j/WcZN+IUPKm1f7qY9MpCrIybJTBck=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/css/app.css"
@@ -8690,12 +8690,12 @@
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Linq.Expressions.wasm"
     },
     {
-      "Identity": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-252yhdv326.gz",
+      "Identity": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-ki3ncw1vbu.gz",
       "SourceId": "MyPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/MyPortfolio#[.{fingerprint=252yhdv326}]!.wasm.gz",
+      "RelativePath": "_framework/MyPortfolio#[.{fingerprint=ki3ncw1vbu}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8704,8 +8704,8 @@
       "RelatedAsset": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sizohn1qlm",
-      "Integrity": "LDlXlgemrInFLgL2xT38+Jj2A+HhRO0pVDYxYkdQspg=",
+      "Fingerprint": "kb6pdj6gji",
+      "Integrity": "wFrdgQ/PD+KS69LZAy26dmbLBH9uNQF2W9U6RAC27E0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.wasm"
@@ -9607,8 +9607,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ywr3cmcpev",
-      "Integrity": "7qvMXIEwMP/MZ8umcpNRoISvGAEpqwqnA2ZHTXKs3Gc=",
+      "Fingerprint": "x9odzkrvpw",
+      "Integrity": "2wAXExFXkNG9/+BBYrGR3ogmrYn4j6vchkCcKt8dbTU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/app.css"
@@ -9733,8 +9733,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3v3t7tn1bt",
-      "Integrity": "z2P04gfPBJMLeWYljFwnvy3SdvErrxJbTaWdHKt8z+c=",
+      "Fingerprint": "rc2utei6bx",
+      "Integrity": "lcPq3QZzzT/EVZ6UBworkPV8WYXOrNrX8OHDPzn+O0A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
@@ -10747,11 +10747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WUzMjYpZDhUEUWqRQFkf0YyEY2dDCHFIAUwj67UGKiI=\""
+          "Value": "\"ErX6wWAhIAD5m9PpcAvToYcFdM8G/hJDofMvIbBNmbc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:35 GMT"
+          "Value": "Sun, 10 Aug 2025 07:41:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10761,13 +10761,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WUzMjYpZDhUEUWqRQFkf0YyEY2dDCHFIAUwj67UGKiI="
+          "Value": "sha256-ErX6wWAhIAD5m9PpcAvToYcFdM8G/hJDofMvIbBNmbc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/m1fpiixya9-5hzn55mujj.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/m1fpiixya9-2flachte59.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10786,11 +10786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VsjokVhBZMcU1DwZCtB++GkiCn5gkDXH4WeXn/84YdI=\""
+          "Value": "\"+F7nh9cEf9P9JCWL4s0ajnt3TXmK9/Uh9P1q3q6xVio=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:40:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10810,19 +10810,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"WUzMjYpZDhUEUWqRQFkf0YyEY2dDCHFIAUwj67UGKiI=\""
+          "Value": "W/\"ErX6wWAhIAD5m9PpcAvToYcFdM8G/hJDofMvIbBNmbc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WUzMjYpZDhUEUWqRQFkf0YyEY2dDCHFIAUwj67UGKiI="
+          "Value": "sha256-ErX6wWAhIAD5m9PpcAvToYcFdM8G/hJDofMvIbBNmbc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/m1fpiixya9-5hzn55mujj.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/m1fpiixya9-2flachte59.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10839,11 +10839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VsjokVhBZMcU1DwZCtB++GkiCn5gkDXH4WeXn/84YdI=\""
+          "Value": "\"+F7nh9cEf9P9JCWL4s0ajnt3TXmK9/Uh9P1q3q6xVio=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:40:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10861,7 +10861,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VsjokVhBZMcU1DwZCtB++GkiCn5gkDXH4WeXn/84YdI="
+          "Value": "sha256-+F7nh9cEf9P9JCWL4s0ajnt3TXmK9/Uh9P1q3q6xVio="
         }
       ]
     },
@@ -22029,168 +22029,7 @@
       ]
     },
     {
-      "Route": "_framework/MyPortfolio.252yhdv326.wasm",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33045"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qguSBzQFN72E6qL5t7v2OoG8gZ0BVakMuEH53iYHhZk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "252yhdv326"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MyPortfolio.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qguSBzQFN72E6qL5t7v2OoG8gZ0BVakMuEH53iYHhZk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MyPortfolio.252yhdv326.wasm",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-252yhdv326.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000077525390"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12898"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LDlXlgemrInFLgL2xT38+Jj2A+HhRO0pVDYxYkdQspg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"qguSBzQFN72E6qL5t7v2OoG8gZ0BVakMuEH53iYHhZk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "252yhdv326"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MyPortfolio.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qguSBzQFN72E6qL5t7v2OoG8gZ0BVakMuEH53iYHhZk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MyPortfolio.252yhdv326.wasm.gz",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-252yhdv326.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12898"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LDlXlgemrInFLgL2xT38+Jj2A+HhRO0pVDYxYkdQspg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "252yhdv326"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MyPortfolio.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LDlXlgemrInFLgL2xT38+Jj2A+HhRO0pVDYxYkdQspg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MyPortfolio.ntuj5cviw2.pdb",
+      "Route": "_framework/MyPortfolio.3r7qjzw3xr.pdb",
       "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22200,7 +22039,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33476"
+          "Value": "33244"
         },
         {
           "Name": "Content-Type",
@@ -22208,11 +22047,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NZgm4kuYhs2VAPf1DoQYgIpaEJjkS8fPfYtzq9d4ojk=\""
+          "Value": "\"v8i3GxMfNiw3Hef5488aKE8F1lRBDUDBeupCHq6KgsM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:41:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22222,7 +22061,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ntuj5cviw2"
+          "Value": "3r7qjzw3xr"
         },
         {
           "Name": "label",
@@ -22230,18 +22069,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NZgm4kuYhs2VAPf1DoQYgIpaEJjkS8fPfYtzq9d4ojk="
+          "Value": "sha256-v8i3GxMfNiw3Hef5488aKE8F1lRBDUDBeupCHq6KgsM="
         }
       ]
     },
     {
-      "Route": "_framework/MyPortfolio.ntuj5cviw2.pdb",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-ntuj5cviw2.gz",
+      "Route": "_framework/MyPortfolio.3r7qjzw3xr.pdb",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-3r7qjzw3xr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000038396560"
+          "Quality": "0.000038755184"
         }
       ],
       "ResponseHeaders": [
@@ -22251,15 +22090,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26043"
+          "Value": "25802"
         },
         {
           "Name": "ETag",
-          "Value": "\"q5F82iWSArfdMJJGwA4be5cN1g1VeKi+uSgnFO6HFs8=\""
+          "Value": "\"q/rFxGSM97khb7zQoeV75tFUeDU0TLy4qnWKvrVOXuk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:41:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22279,13 +22118,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NZgm4kuYhs2VAPf1DoQYgIpaEJjkS8fPfYtzq9d4ojk=\""
+          "Value": "W/\"v8i3GxMfNiw3Hef5488aKE8F1lRBDUDBeupCHq6KgsM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ntuj5cviw2"
+          "Value": "3r7qjzw3xr"
         },
         {
           "Name": "label",
@@ -22293,13 +22132,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NZgm4kuYhs2VAPf1DoQYgIpaEJjkS8fPfYtzq9d4ojk="
+          "Value": "sha256-v8i3GxMfNiw3Hef5488aKE8F1lRBDUDBeupCHq6KgsM="
         }
       ]
     },
     {
-      "Route": "_framework/MyPortfolio.ntuj5cviw2.pdb.gz",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-ntuj5cviw2.gz",
+      "Route": "_framework/MyPortfolio.3r7qjzw3xr.pdb.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-3r7qjzw3xr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22308,7 +22147,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26043"
+          "Value": "25802"
         },
         {
           "Name": "Content-Type",
@@ -22316,11 +22155,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q5F82iWSArfdMJJGwA4be5cN1g1VeKi+uSgnFO6HFs8=\""
+          "Value": "\"q/rFxGSM97khb7zQoeV75tFUeDU0TLy4qnWKvrVOXuk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:41:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22338,7 +22177,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ntuj5cviw2"
+          "Value": "3r7qjzw3xr"
         },
         {
           "Name": "label",
@@ -22346,7 +22185,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-q5F82iWSArfdMJJGwA4be5cN1g1VeKi+uSgnFO6HFs8="
+          "Value": "sha256-q/rFxGSM97khb7zQoeV75tFUeDU0TLy4qnWKvrVOXuk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MyPortfolio.ki3ncw1vbu.wasm",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/bin/Debug/net9.0/wwwroot/_framework/MyPortfolio.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLKrdebcRwv9NMTMr2LE9MKsVdROWABOi5C52SRrnyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 07:41:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki3ncw1vbu"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MyPortfolio.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLKrdebcRwv9NMTMr2LE9MKsVdROWABOi5C52SRrnyU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MyPortfolio.ki3ncw1vbu.wasm",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-ki3ncw1vbu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000079339892"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12603"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wFrdgQ/PD+KS69LZAy26dmbLBH9uNQF2W9U6RAC27E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 07:41:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dLKrdebcRwv9NMTMr2LE9MKsVdROWABOi5C52SRrnyU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki3ncw1vbu"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MyPortfolio.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLKrdebcRwv9NMTMr2LE9MKsVdROWABOi5C52SRrnyU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MyPortfolio.ki3ncw1vbu.wasm.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-ki3ncw1vbu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wFrdgQ/PD+KS69LZAy26dmbLBH9uNQF2W9U6RAC27E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 07:41:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki3ncw1vbu"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MyPortfolio.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wFrdgQ/PD+KS69LZAy26dmbLBH9uNQF2W9U6RAC27E0="
         }
       ]
     },
@@ -22361,7 +22361,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33476"
+          "Value": "33244"
         },
         {
           "Name": "Content-Type",
@@ -22369,11 +22369,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NZgm4kuYhs2VAPf1DoQYgIpaEJjkS8fPfYtzq9d4ojk=\""
+          "Value": "\"v8i3GxMfNiw3Hef5488aKE8F1lRBDUDBeupCHq6KgsM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:41:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22383,18 +22383,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NZgm4kuYhs2VAPf1DoQYgIpaEJjkS8fPfYtzq9d4ojk="
+          "Value": "sha256-v8i3GxMfNiw3Hef5488aKE8F1lRBDUDBeupCHq6KgsM="
         }
       ]
     },
     {
       "Route": "_framework/MyPortfolio.pdb",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-ntuj5cviw2.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-3r7qjzw3xr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000038396560"
+          "Quality": "0.000038755184"
         }
       ],
       "ResponseHeaders": [
@@ -22404,15 +22404,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26043"
+          "Value": "25802"
         },
         {
           "Name": "ETag",
-          "Value": "\"q5F82iWSArfdMJJGwA4be5cN1g1VeKi+uSgnFO6HFs8=\""
+          "Value": "\"q/rFxGSM97khb7zQoeV75tFUeDU0TLy4qnWKvrVOXuk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:41:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22432,19 +22432,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NZgm4kuYhs2VAPf1DoQYgIpaEJjkS8fPfYtzq9d4ojk=\""
+          "Value": "W/\"v8i3GxMfNiw3Hef5488aKE8F1lRBDUDBeupCHq6KgsM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NZgm4kuYhs2VAPf1DoQYgIpaEJjkS8fPfYtzq9d4ojk="
+          "Value": "sha256-v8i3GxMfNiw3Hef5488aKE8F1lRBDUDBeupCHq6KgsM="
         }
       ]
     },
     {
       "Route": "_framework/MyPortfolio.pdb.gz",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-ntuj5cviw2.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/apg9ik95ly-3r7qjzw3xr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22453,7 +22453,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26043"
+          "Value": "25802"
         },
         {
           "Name": "Content-Type",
@@ -22461,11 +22461,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q5F82iWSArfdMJJGwA4be5cN1g1VeKi+uSgnFO6HFs8=\""
+          "Value": "\"q/rFxGSM97khb7zQoeV75tFUeDU0TLy4qnWKvrVOXuk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:41:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22483,7 +22483,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-q5F82iWSArfdMJJGwA4be5cN1g1VeKi+uSgnFO6HFs8="
+          "Value": "sha256-q/rFxGSM97khb7zQoeV75tFUeDU0TLy4qnWKvrVOXuk="
         }
       ]
     },
@@ -22498,7 +22498,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33045"
+          "Value": "31509"
         },
         {
           "Name": "Content-Type",
@@ -22506,11 +22506,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qguSBzQFN72E6qL5t7v2OoG8gZ0BVakMuEH53iYHhZk=\""
+          "Value": "\"dLKrdebcRwv9NMTMr2LE9MKsVdROWABOi5C52SRrnyU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:41:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22520,18 +22520,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qguSBzQFN72E6qL5t7v2OoG8gZ0BVakMuEH53iYHhZk="
+          "Value": "sha256-dLKrdebcRwv9NMTMr2LE9MKsVdROWABOi5C52SRrnyU="
         }
       ]
     },
     {
       "Route": "_framework/MyPortfolio.wasm",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-252yhdv326.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-ki3ncw1vbu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000077525390"
+          "Quality": "0.000079339892"
         }
       ],
       "ResponseHeaders": [
@@ -22541,15 +22541,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12898"
+          "Value": "12603"
         },
         {
           "Name": "ETag",
-          "Value": "\"LDlXlgemrInFLgL2xT38+Jj2A+HhRO0pVDYxYkdQspg=\""
+          "Value": "\"wFrdgQ/PD+KS69LZAy26dmbLBH9uNQF2W9U6RAC27E0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:41:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22569,19 +22569,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qguSBzQFN72E6qL5t7v2OoG8gZ0BVakMuEH53iYHhZk=\""
+          "Value": "W/\"dLKrdebcRwv9NMTMr2LE9MKsVdROWABOi5C52SRrnyU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qguSBzQFN72E6qL5t7v2OoG8gZ0BVakMuEH53iYHhZk="
+          "Value": "sha256-dLKrdebcRwv9NMTMr2LE9MKsVdROWABOi5C52SRrnyU="
         }
       ]
     },
     {
       "Route": "_framework/MyPortfolio.wasm.gz",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-252yhdv326.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/ted0ak5oxo-ki3ncw1vbu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22590,7 +22590,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12898"
+          "Value": "12603"
         },
         {
           "Name": "Content-Type",
@@ -22598,11 +22598,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LDlXlgemrInFLgL2xT38+Jj2A+HhRO0pVDYxYkdQspg=\""
+          "Value": "\"wFrdgQ/PD+KS69LZAy26dmbLBH9uNQF2W9U6RAC27E0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:33 GMT"
+          "Value": "Sun, 10 Aug 2025 07:41:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22620,7 +22620,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LDlXlgemrInFLgL2xT38+Jj2A+HhRO0pVDYxYkdQspg="
+          "Value": "sha256-wFrdgQ/PD+KS69LZAy26dmbLBH9uNQF2W9U6RAC27E0="
         }
       ]
     },
@@ -71200,12 +71200,12 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-ywr3cmcpev.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-x9odzkrvpw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001381215470"
+          "Quality": "0.001071811361"
         }
       ],
       "ResponseHeaders": [
@@ -71215,15 +71215,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "723"
+          "Value": "932"
         },
         {
           "Name": "ETag",
-          "Value": "\"9pE70CpIVQdgrdCdutJbA51HCB2S8GvCp6/DpddxeKw=\""
+          "Value": "\"gWBOUBXdvabG6j/WcZN+IUPKm1f7qY9MpCrIybJTBck=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:18 GMT"
+          "Value": "Sun, 10 Aug 2025 07:37:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71243,13 +71243,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7qvMXIEwMP/MZ8umcpNRoISvGAEpqwqnA2ZHTXKs3Gc=\""
+          "Value": "W/\"2wAXExFXkNG9/+BBYrGR3ogmrYn4j6vchkCcKt8dbTU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7qvMXIEwMP/MZ8umcpNRoISvGAEpqwqnA2ZHTXKs3Gc="
+          "Value": "sha256-2wAXExFXkNG9/+BBYrGR3ogmrYn4j6vchkCcKt8dbTU="
         }
       ]
     },
@@ -71264,7 +71264,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1918"
+          "Value": "2452"
         },
         {
           "Name": "Content-Type",
@@ -71272,11 +71272,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7qvMXIEwMP/MZ8umcpNRoISvGAEpqwqnA2ZHTXKs3Gc=\""
+          "Value": "\"2wAXExFXkNG9/+BBYrGR3ogmrYn4j6vchkCcKt8dbTU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:18 GMT"
+          "Value": "Sun, 10 Aug 2025 07:37:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71286,13 +71286,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7qvMXIEwMP/MZ8umcpNRoISvGAEpqwqnA2ZHTXKs3Gc="
+          "Value": "sha256-2wAXExFXkNG9/+BBYrGR3ogmrYn4j6vchkCcKt8dbTU="
         }
       ]
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-ywr3cmcpev.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-x9odzkrvpw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71301,7 +71301,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "723"
+          "Value": "932"
         },
         {
           "Name": "Content-Type",
@@ -71309,11 +71309,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9pE70CpIVQdgrdCdutJbA51HCB2S8GvCp6/DpddxeKw=\""
+          "Value": "\"gWBOUBXdvabG6j/WcZN+IUPKm1f7qY9MpCrIybJTBck=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:18 GMT"
+          "Value": "Sun, 10 Aug 2025 07:37:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71331,18 +71331,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9pE70CpIVQdgrdCdutJbA51HCB2S8GvCp6/DpddxeKw="
+          "Value": "sha256-gWBOUBXdvabG6j/WcZN+IUPKm1f7qY9MpCrIybJTBck="
         }
       ]
     },
     {
-      "Route": "css/app.ywr3cmcpev.css",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-ywr3cmcpev.gz",
+      "Route": "css/app.x9odzkrvpw.css",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-x9odzkrvpw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001381215470"
+          "Quality": "0.001071811361"
         }
       ],
       "ResponseHeaders": [
@@ -71352,15 +71352,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "723"
+          "Value": "932"
         },
         {
           "Name": "ETag",
-          "Value": "\"9pE70CpIVQdgrdCdutJbA51HCB2S8GvCp6/DpddxeKw=\""
+          "Value": "\"gWBOUBXdvabG6j/WcZN+IUPKm1f7qY9MpCrIybJTBck=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:18 GMT"
+          "Value": "Sun, 10 Aug 2025 07:37:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71380,13 +71380,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7qvMXIEwMP/MZ8umcpNRoISvGAEpqwqnA2ZHTXKs3Gc=\""
+          "Value": "W/\"2wAXExFXkNG9/+BBYrGR3ogmrYn4j6vchkCcKt8dbTU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ywr3cmcpev"
+          "Value": "x9odzkrvpw"
         },
         {
           "Name": "label",
@@ -71394,12 +71394,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7qvMXIEwMP/MZ8umcpNRoISvGAEpqwqnA2ZHTXKs3Gc="
+          "Value": "sha256-2wAXExFXkNG9/+BBYrGR3ogmrYn4j6vchkCcKt8dbTU="
         }
       ]
     },
     {
-      "Route": "css/app.ywr3cmcpev.css",
+      "Route": "css/app.x9odzkrvpw.css",
       "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/css/app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71409,7 +71409,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1918"
+          "Value": "2452"
         },
         {
           "Name": "Content-Type",
@@ -71417,11 +71417,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7qvMXIEwMP/MZ8umcpNRoISvGAEpqwqnA2ZHTXKs3Gc=\""
+          "Value": "\"2wAXExFXkNG9/+BBYrGR3ogmrYn4j6vchkCcKt8dbTU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:18 GMT"
+          "Value": "Sun, 10 Aug 2025 07:37:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71431,7 +71431,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ywr3cmcpev"
+          "Value": "x9odzkrvpw"
         },
         {
           "Name": "label",
@@ -71439,13 +71439,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7qvMXIEwMP/MZ8umcpNRoISvGAEpqwqnA2ZHTXKs3Gc="
+          "Value": "sha256-2wAXExFXkNG9/+BBYrGR3ogmrYn4j6vchkCcKt8dbTU="
         }
       ]
     },
     {
-      "Route": "css/app.ywr3cmcpev.css.gz",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-ywr3cmcpev.gz",
+      "Route": "css/app.x9odzkrvpw.css.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/qmv8ycc2f6-x9odzkrvpw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71454,7 +71454,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "723"
+          "Value": "932"
         },
         {
           "Name": "Content-Type",
@@ -71462,11 +71462,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9pE70CpIVQdgrdCdutJbA51HCB2S8GvCp6/DpddxeKw=\""
+          "Value": "\"gWBOUBXdvabG6j/WcZN+IUPKm1f7qY9MpCrIybJTBck=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:11:18 GMT"
+          "Value": "Sun, 10 Aug 2025 07:37:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71484,7 +71484,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ywr3cmcpev"
+          "Value": "x9odzkrvpw"
         },
         {
           "Name": "label",
@@ -71492,7 +71492,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9pE70CpIVQdgrdCdutJbA51HCB2S8GvCp6/DpddxeKw="
+          "Value": "sha256-gWBOUBXdvabG6j/WcZN+IUPKm1f7qY9MpCrIybJTBck="
         }
       ]
     },
@@ -71907,8 +71907,8 @@
       ]
     },
     {
-      "Route": "index.3v3t7tn1bt.html",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-3v3t7tn1bt.gz",
+      "Route": "index.html",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-rc2utei6bx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -71927,15 +71927,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b+8E89xKnO4TpGgO1xyS6b3cy/QvfAkXC4KnBa2UtLQ=\""
+          "Value": "\"JtC+m5pCtsXbxlYZMmfGQoFssOzkKivR6KwRleSpaIA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:09:53 GMT"
+          "Value": "Sun, 10 Aug 2025 07:22:02 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -71951,26 +71951,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"z2P04gfPBJMLeWYljFwnvy3SdvErrxJbTaWdHKt8z+c=\""
+          "Value": "W/\"lcPq3QZzzT/EVZ6UBworkPV8WYXOrNrX8OHDPzn+O0A=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3v3t7tn1bt"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-z2P04gfPBJMLeWYljFwnvy3SdvErrxJbTaWdHKt8z+c="
+          "Value": "sha256-lcPq3QZzzT/EVZ6UBworkPV8WYXOrNrX8OHDPzn+O0A="
         }
       ]
     },
     {
-      "Route": "index.3v3t7tn1bt.html",
+      "Route": "index.html",
       "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71980,7 +71972,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "894"
+          "Value": "893"
         },
         {
           "Name": "Content-Type",
@@ -71988,35 +71980,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z2P04gfPBJMLeWYljFwnvy3SdvErrxJbTaWdHKt8z+c=\""
+          "Value": "\"lcPq3QZzzT/EVZ6UBworkPV8WYXOrNrX8OHDPzn+O0A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:09:53 GMT"
+          "Value": "Sun, 10 Aug 2025 07:22:02 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3v3t7tn1bt"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-z2P04gfPBJMLeWYljFwnvy3SdvErrxJbTaWdHKt8z+c="
+          "Value": "sha256-lcPq3QZzzT/EVZ6UBworkPV8WYXOrNrX8OHDPzn+O0A="
         }
       ]
     },
     {
-      "Route": "index.3v3t7tn1bt.html.gz",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-3v3t7tn1bt.gz",
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-rc2utei6bx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72033,11 +72017,164 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b+8E89xKnO4TpGgO1xyS6b3cy/QvfAkXC4KnBa2UtLQ=\""
+          "Value": "\"JtC+m5pCtsXbxlYZMmfGQoFssOzkKivR6KwRleSpaIA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:09:53 GMT"
+          "Value": "Sun, 10 Aug 2025 07:22:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JtC+m5pCtsXbxlYZMmfGQoFssOzkKivR6KwRleSpaIA="
+        }
+      ]
+    },
+    {
+      "Route": "index.rc2utei6bx.html",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-rc2utei6bx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002100840336"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "475"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JtC+m5pCtsXbxlYZMmfGQoFssOzkKivR6KwRleSpaIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 07:22:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lcPq3QZzzT/EVZ6UBworkPV8WYXOrNrX8OHDPzn+O0A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rc2utei6bx"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lcPq3QZzzT/EVZ6UBworkPV8WYXOrNrX8OHDPzn+O0A="
+        }
+      ]
+    },
+    {
+      "Route": "index.rc2utei6bx.html",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lcPq3QZzzT/EVZ6UBworkPV8WYXOrNrX8OHDPzn+O0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 07:22:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rc2utei6bx"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lcPq3QZzzT/EVZ6UBworkPV8WYXOrNrX8OHDPzn+O0A="
+        }
+      ]
+    },
+    {
+      "Route": "index.rc2utei6bx.html.gz",
+      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-rc2utei6bx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JtC+m5pCtsXbxlYZMmfGQoFssOzkKivR6KwRleSpaIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 07:22:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72055,7 +72192,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3v3t7tn1bt"
+          "Value": "rc2utei6bx"
         },
         {
           "Name": "label",
@@ -72063,144 +72200,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-b+8E89xKnO4TpGgO1xyS6b3cy/QvfAkXC4KnBa2UtLQ="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-3v3t7tn1bt.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002100840336"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "475"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"b+8E89xKnO4TpGgO1xyS6b3cy/QvfAkXC4KnBa2UtLQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:09:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"z2P04gfPBJMLeWYljFwnvy3SdvErrxJbTaWdHKt8z+c=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z2P04gfPBJMLeWYljFwnvy3SdvErrxJbTaWdHKt8z+c="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "894"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z2P04gfPBJMLeWYljFwnvy3SdvErrxJbTaWdHKt8z+c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:09:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z2P04gfPBJMLeWYljFwnvy3SdvErrxJbTaWdHKt8z+c="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/Debug/net9.0/compressed/6k6bcuwpoo-3v3t7tn1bt.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "475"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"b+8E89xKnO4TpGgO1xyS6b3cy/QvfAkXC4KnBa2UtLQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 07:09:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-b+8E89xKnO4TpGgO1xyS6b3cy/QvfAkXC4KnBa2UtLQ="
+          "Value": "sha256-JtC+m5pCtsXbxlYZMmfGQoFssOzkKivR6KwRleSpaIA="
         }
       ]
     },

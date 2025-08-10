@@ -1,11 +1,13 @@
 @page "/"
+
 <!-- Chart.js (CDN) -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <!-- Our tiny interop -->
 <script src="js/chartInterop.js"></script>
 @using System.Net.Http.Json
 
-<section class="home-section" id="home">
+<!-- Hero / Home section -->
+<section class="section home-section" id="home">
     <div class="container">
         <div class="row home-header">
             <div class="col-md-12">
@@ -18,13 +20,19 @@
         </div>
     </div>
 </section>
-<section class="py-5">
-  <GitHubActivity Username="nisargmankad" Days="90" />
+
+<!-- GitHub activity graph -->
+<section class="section">
+    <GitHubActivity Username="nisargmankad" Days="90" />
 </section>
 
-<ResumeSection />
+<!-- Resume / experience section -->
+<section class="section" id="resume">
+    <ResumeSection />
+</section>
 
-<section class="project-section section" id="work">
+<!-- Projects section -->
+@* <section class="section project-section" id="work">
     <div class="container">
         <h2 class="project-heading text-center mb-5">SELECTED WORK</h2>
         <div class="row justify-content-center">
@@ -39,4 +47,4 @@
             <!-- Repeat for other projects -->
         </div>
     </div>
-</section>
+</section> *@
