@@ -1,4 +1,9 @@
 @page "/"
+<!-- Chart.js (CDN) -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<!-- Our tiny interop -->
+<script src="js/chartInterop.js"></script>
+@using System.Net.Http.Json
 
 <section class="home-section" id="home">
     <div class="container">
@@ -12,6 +17,9 @@
             </div>
         </div>
     </div>
+</section>
+<section class="py-5">
+  <GitHubActivity Username="nisargmankad" Days="90" />
 </section>
 
 <ResumeSection />

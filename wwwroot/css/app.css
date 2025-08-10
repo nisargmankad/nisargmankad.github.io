@@ -159,4 +159,12 @@ h1, h2, h3, h4, h5, h6 {
   
   /* If you use a dark theme and have black logos, you can lighten them:
      .company-logo { filter: invert(1) grayscale(1); }  <-- optional */
+
+     /* Card look for the chart container (optional) */
+.card {
+    border-radius: 1rem;
+    background: rgba(255,255,255,0.04);
+    padding: 1rem 1.25rem;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+  }
   

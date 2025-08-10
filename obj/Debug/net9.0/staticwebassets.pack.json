@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets/index.html"
     },
     {
+      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/js/chartInterop.js",
+      "PackagePath": "staticwebassets/js/chartInterop.js"
+    },
+    {
       "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
@@ -211,6 +215,10 @@
     {
       "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/lib/bootstrap/dist/js/chartInterop.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/chartInterop.js"
     },
     {
       "Id": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/wwwroot/sample-data/weather.json",

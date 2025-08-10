@@ -28,6 +28,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/nisargmankad/Projects/NashSite/MyPortfolio/Components/GitHubActivity.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9HaXRIdWJBY3Rpdml0eS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/nisargmankad/Projects/NashSite/MyPortfolio/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
